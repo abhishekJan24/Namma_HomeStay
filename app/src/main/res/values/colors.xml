@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Earthy Tone Colors -->
+    <color name="primary">#8D6E63</color>
+    <color name="primary_dark">#5D4037</color>
+    <color name="accent">#4CAF50</color>
+    
+    <color name="background_light">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E0E0E0</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#388E3C</color>
+    <color name="error">#D32F2F</color>
+</resources>

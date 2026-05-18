@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- ✅ NEW: Dashboard tab — shows profile info + photos -->
+    <item
+        android:id="@+id/nav_dashboard"
+        android:title="Dashboard"
+        android:icon="@android:drawable/ic_menu_today" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/title_profile"
+        android:icon="@android:drawable/ic_menu_myplaces" />
+
+    <item
+        android:id="@+id/nav_menu"
+        android:title="@string/title_menu"
+        android:icon="@android:drawable/ic_menu_agenda" />
+
+    <item
+        android:id="@+id/nav_inquiries"
+        android:title="@string/title_inquiries"
+        android:icon="@android:drawable/ic_dialog_email" />
+
+    <item
+        android:id="@+id/nav_guide"
+        android:title="@string/title_guide"
+        android:icon="@android:drawable/ic_menu_mapmode" />
+
+</menu>

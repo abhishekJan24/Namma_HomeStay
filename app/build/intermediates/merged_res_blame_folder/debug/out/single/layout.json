@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/fragment_menu.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/item_menu.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/item_menu.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/item_guide.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/item_guide.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/fragment_profile.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/item_inquiry.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/item_inquiry.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/fragment_dashboard.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/fragment_inquiries.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/fragment_inquiries.xml"
+    },
+    {
+        "merged": "com.namma.homestay.app-mergeDebugResources-52:/layout/fragment_guide.xml",
+        "source": "com.namma.homestay.app-main-55:/layout/fragment_guide.xml"
+    }
+]

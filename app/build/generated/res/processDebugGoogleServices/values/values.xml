@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">361021838801</string>
+    <string name="google_api_key" translatable="false">AIzaSyDY9WbDaiGfFTxehUxv1GFQNqzAE14E3hI</string>
+    <string name="google_app_id" translatable="false">1:361021838801:android:8b285f8a33dde34218fcf0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDY9WbDaiGfFTxehUxv1GFQNqzAE14E3hI</string>
+    <string name="google_storage_bucket" translatable="false">nammahomestay-61317.firebasestorage.app</string>
+    <string name="project_id" translatable="false">nammahomestay-61317</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#4CAF50</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E0E0E0</color>
+    <color name="error">#D32F2F</color>
+    <color name="primary">#8D6E63</color>
+    <color name="primary_dark">#5D4037</color>
+    <color name="success">#388E3C</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <string name="add">Add</string>
+    <string name="app_name">Namma HomeStay</string>
+    <string name="call">Call</string>
+    <string name="gcm_defaultSenderId" translatable="false">361021838801</string>
+    <string name="google_api_key" translatable="false">AIzaSyDY9WbDaiGfFTxehUxv1GFQNqzAE14E3hI</string>
+    <string name="google_app_id" translatable="false">1:361021838801:android:8b285f8a33dde34218fcf0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDY9WbDaiGfFTxehUxv1GFQNqzAE14E3hI</string>
+    <string name="google_storage_bucket" translatable="false">nammahomestay-61317.firebasestorage.app</string>
+    <string name="project_id" translatable="false">nammahomestay-61317</string>
+    <string name="save">Save Changes</string>
+    <string name="title_guide">Local Guide</string>
+    <string name="title_inquiries">Inquiries</string>
+    <string name="title_menu">Daily Menu</string>
+    <string name="title_profile">My Home Profile</string>
+    <string name="upload_image">Upload Image</string>
+    <style name="Base.Theme.NammaHomeStay" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+    <style name="Theme.NammaHomeStay" parent="Base.Theme.NammaHomeStay"/>
+    <style name="Theme.NammaHomeStay.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
